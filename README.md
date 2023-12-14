@@ -1,5 +1,5 @@
 - 👋 Hi, sKriptKiTTy42 here
-- 👀 Interested in food, water, shelter and oxygen
+- 👀 Interested in food, water, shelter, oxygen and head pats
 - 🌱 Currently learning network infrastructure, web security, webpage design and C programming
 - 💞️ Seeking to collaborate on raising the vibe
 - 📫 May contact here, feel free to leave message or code
